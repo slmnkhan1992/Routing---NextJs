@@ -6,7 +6,7 @@ const page = () => {
     <>
     <Nav />
     <br />
-    <div>Error page</div>
+    <div className='text-color-500 bg-blue-100'>Error page</div>
     </>
   )
 }
